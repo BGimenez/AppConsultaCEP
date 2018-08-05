@@ -1,0 +1,1 @@
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep.UWP\App_ConsultaCep.UWP.csproj;x86

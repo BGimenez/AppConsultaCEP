@@ -1,0 +1,12 @@
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\bin\Debug\netstandard2.0\App_ConsultaCep.deps.json
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\bin\Debug\netstandard2.0\App_ConsultaCep.dll
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\App_ConsultaCep.csprojAssemblyReference.cache
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\App_ConsultaCep.csproj.CoreCompileInputs.cache
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\App_ConsultaCep.AssemblyInfoInputs.cache
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\App_ConsultaCep.AssemblyInfo.cs
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\bin\Debug\netstandard2.0\App_ConsultaCep.pdb
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\App_ConsultaCep.dll
+D:\Projetos-Git\App_ConsultaCep\App_ConsultaCep\App_ConsultaCep\obj\Debug\netstandard2.0\App_ConsultaCep.pdb
